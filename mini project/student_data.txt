@@ -1,0 +1,4 @@
+Ayushman,80,75,90
+Adwait,85,90,95
+Divyansh,70,95,80
+Kaushal,80,98,87

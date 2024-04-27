@@ -1,0 +1,7 @@
+Name:- Kaushal Veer Singh                                        
+Course:- B-Tech (C.S.E)                              
+Section:- BA                                        
+University Roll number:- 2315001093                            
+Class Roll number:- 37                                 
+Subject:- Python Programming                          
+Topic:- Mini Projects    

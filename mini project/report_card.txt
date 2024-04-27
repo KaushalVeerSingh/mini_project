@@ -1,0 +1,28 @@
+ID: 1
+Name: Ayushman
+Marks: 80, 75, 90
+Total Marks: 245
+Average Marks: 81.67
+Grade: B
+
+ID: 2
+Name: Adwait
+Marks: 85, 90, 95
+Total Marks: 270
+Average Marks: 90.00
+Grade: A
+
+ID: 3
+Name: Divyansh
+Marks: 70, 95, 80
+Total Marks: 245
+Average Marks: 81.67
+Grade: B
+
+ID: 4
+Name: Kaushal
+Marks: 80, 98, 87
+Total Marks: 265
+Average Marks: 88.33
+Grade: B
+
